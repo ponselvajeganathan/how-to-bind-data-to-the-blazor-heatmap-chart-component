@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to bind data to the Syncfusion [Blazor HeatMap](https://www.syncfusion.com/blazor-components`) component using multiple supported data-binding approaches. The implementation shows how to visualize data from both two-dimensional array sources and JSON-based collections through row-binding and cell-binding configurations. These techniques help developers efficiently render matrix-style datasets while maintaining flexibility in data structure and mapping. The sample serves as a practical reference for configuring HeatMap data sources and displaying structured information in a visually meaningful format.
+This sample demonstrates how to bind data to the Syncfusion [Blazor HeatMap](https://www.syncfusion.com/blazor-components/blazor-heatmap-chart) component using multiple supported data-binding approaches. The implementation shows how to visualize data from both two-dimensional array sources and JSON-based collections through row-binding and cell-binding configurations. These techniques help developers efficiently render matrix-style datasets while maintaining flexibility in data structure and mapping. The sample serves as a practical reference for configuring HeatMap data sources and displaying structured information in a visually meaningful format.
 
 A quick start Blazor project that shows how to bind a two-dimensional array data and JSON data to the Blazor HeatMap Chart component using the row binding and cell binding methods.
  
