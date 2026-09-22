@@ -7,7 +7,7 @@ This sample demonstrates how to bind data to the Syncfusion [Blazor HeatMap](htt
 A quick start Blazor project that shows how to bind a two-dimensional array data and JSON data to the Blazor HeatMap Chart component using the row binding and cell binding methods.
  
 Refer to the following documentation to learn about the Blazor HeatMap Chart component: 
-https://blazor.syncfusion.com/documentation/heatmap-chart/working-with-data
+https://help.syncfusion.com/chart-sdk/blazor/heatmap-chart/working-with-data
 
 
 Check out this online example of the Blazor HeatMap Chart component: 
