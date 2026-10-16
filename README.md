@@ -47,10 +47,6 @@ dotnet run
 
 4. Open the local application URL displayed in the terminal output.
 
-## Project Structure
-
-- `Pages/` — contains the HeatMap implementation and data-binding examples.
-
 ## Support and Feedback
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
