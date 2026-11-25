@@ -11,13 +11,13 @@ https://help.syncfusion.com/chart-sdk/blazor/heatmap-chart/working-with-data
 
 
 Check out this online example of the Blazor HeatMap Chart component: 
-https://blazor.syncfusion.com/demos/heatmap-chart/cell?theme=fluent
-https://blazor.syncfusion.com/demos/heatmap-chart/json-row?theme=fluent
-https://blazor.syncfusion.com/demos/heatmap-chart/json-cell?theme=fluent
+https://blazor.syncfusion.com/demos/heatmap-chart/cell
+https://blazor.syncfusion.com/demos/heatmap-chart/json-row
+https://blazor.syncfusion.com/demos/heatmap-chart/json-cell
 
 
 Watch the following video to get started with a Blazor Web Assembly app and add Syncfusion Blazor components to it:
-https://www.youtube.com/watch?v=zKU580cOqjg
+
 
 ## Prerequisites
 
@@ -51,7 +51,7 @@ dotnet run
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
 - To report an issue specific to this sample, open a GitHub issue in this repository.
-- For HeatMap data-binding documentation, visit https://blazor.syncfusion.com/documentation/heatmap-chart/working-with-data
+- For HeatMap data-binding documentation, visit https://help.syncfusion.com/chart-sdk/blazor/heatmap-chart/working-with-data
 
 ## License
 
